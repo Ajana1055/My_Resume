@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Calvin
+# Responsive Portfolio Website Anirban
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
