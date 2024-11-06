@@ -8,5 +8,4 @@
 
 💙 
 
-![preview img]("https://png.pngtree.com/element_our/20190604/ourmid/pngtree-office-preview-file-illustration-image_1468631.jpg")
-
+https://ajana1055.github.io/My_Resume
